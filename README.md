@@ -66,3 +66,10 @@ Segui questi passaggi per eseguire il progetto:
 
 Note aggiuntive
 	•	Assicurati di avere Python installato sul tuo computer.
+
+
+Questo progetto é stato realizzato da:
+    • Michele Chierchia
+	• Christian Longobardi
+	• Nunziante Coticelli
+	• Federico Estero
