@@ -44,3 +44,25 @@ Tecnologie utilizzate
 Obiettivo
 
 Il progetto è pensato come simulatore osservativo, in cui il focus è sulla gestione concorrente dei processi e sulla persistenza dello stato, piuttosto che sull’interazione diretta dell’utente.
+
+
+
+Installazione ed esecuzione
+
+Segui questi passaggi per eseguire il progetto:
+	1.	Apri Visual Studio Code.
+	2.	Apri la cartella del progetto:
+	•	Vai su File > Open Folder.
+	•	Seleziona la cartella principale che contiene main.py.
+	3.	Apri i file Python:
+	•	Nel pannello laterale a sinistra vedrai tutti i file Python e eventuali file .json.
+	•	Clicca su un file, ad esempio main.py, per aprirlo nell’editor.
+	4.	Apri il terminale integrato:
+	•	Vai su Terminal > New Terminal.
+	•	Il terminale dovrebbe posizionarsi automaticamente nella directory del progetto.
+	5.	Avvia il programma:
+	•	Digita nel terminale: python main.py
+	Il simulatore si avvierà e potrai interagire con esso.
+
+Note aggiuntive
+	•	Assicurati di avere Python installato sul tuo computer.
